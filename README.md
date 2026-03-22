@@ -21,6 +21,8 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 PROCEDURE:
 a.   KVL:
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 114701" src="https://github.com/user-attachments/assets/a3c07650-682e-4573-9de3-acf2cb5fe4e1" />
+
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -31,6 +33,8 @@ a.   KVL:
 
 
 b.  KCL:
+<img width="1920" height="1080" alt="Screenshot 2026-02-01 163339" src="https://github.com/user-attachments/assets/1189d968-3b9c-4b0d-bdf0-0daf35ccfab0" />
+
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -40,6 +44,7 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them.
 
 
+[beee exp 1.pdf](https://github.com/user-attachments/files/26165305/beee.exp.1.pdf)
 
 
 RESULT:
